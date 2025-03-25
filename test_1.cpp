@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    test = 0;
+    test123 = 0;
 }
